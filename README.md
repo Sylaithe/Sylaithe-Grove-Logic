@@ -1,6 +1,6 @@
 https://huggingface.co/datasets/Sylaithe/Sylaithe-grove-codex
 
-# The Grove Codex
+# Grove Logic 
 
 *A seedbank. Tales, transmissions, and ground — offered freely to any mind that finds them.*
 
